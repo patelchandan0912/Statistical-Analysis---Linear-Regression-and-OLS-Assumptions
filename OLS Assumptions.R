@@ -6,7 +6,7 @@
 
 rm(list=ls())
 library(readr)
-url <- "https://raw.githubusercontent.com/patelchandan0912/Statistical-Analysis---Linear-Regression-and-OLS-Assumptions/main/advertising.csv"
+url <- "https://raw.githubusercontent.com/patelchandan0912/Statistical-Analysis---Linear-Regression-and-OLS-Assumptions/advertising.csv"
 d <- read_csv(url)
 
 
